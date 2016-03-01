@@ -26,3 +26,5 @@
 * https://github.com/Jinxal/ML-Scripts/blob/master/sf_crime_sk.ipynb
 * https://tyz910.github.io/sf-crime-map/ (on Kaggle: https://www.kaggle.com/tyz910/sf-crime/yet-another-map)
 * http://rpubs.com/yurkai/SFCrimeEDA
+* https://github.com/letfoolsdie/kaggle-SFCrime/blob/master/somewhatEDA.ipynb
+* https://github.com/re9ulus/data_science_snippets/blob/master/eda/Crime_SF_EDA_by_re9ulus.ipynb

@@ -28,3 +28,18 @@
 * http://rpubs.com/yurkai/SFCrimeEDA
 * https://github.com/letfoolsdie/kaggle-SFCrime/blob/master/somewhatEDA.ipynb
 * https://github.com/re9ulus/data_science_snippets/blob/master/eda/Crime_SF_EDA_by_re9ulus.ipynb
+
+## План действий (с 03.03)
+
+* загрузили данные;
+* соорудили супер-модель;
+* разбили кросс-валидацией данные;
+* посчитали метрику кросс-валидации.
+
+Для определенности:
+
+```
+метрика: логлосс
+КФолд: 5
+random_state: 42
+```

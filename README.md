@@ -18,7 +18,8 @@
 
 ## Exploratory data analyses
 
-Итерация первая. Разбираем [SF Crime](https://www.kaggle.com/c/sf-crime).
+#### Итерация первая.
+Разбираем [SF Crime](https://www.kaggle.com/c/sf-crime).
 
 * https://github.com/tyz910/sf-crime-model/blob/master/02_model_tests.ipynb
 * https://github.com/movb/kaggle/blob/master/sf-crime/gradienboost.ipynb

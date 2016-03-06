@@ -44,3 +44,5 @@
 КФолд: 5
 random_state: 42
 ```
+
+Набросок ноутбука для дальнейшей работы («скелета»): https://github.com/yurkai/SFCrime/blob/master/template.ipynb
